@@ -1,3 +1,3 @@
 # MAD__Lab
 
-All mobile app development softwares are here!
+All mobile app development code is here!
