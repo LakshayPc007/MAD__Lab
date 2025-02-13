@@ -1,3 +1,3 @@
 # MAD__Lab
 
-All mobile app development code is here!
+Mobile app development code is uploaded here!
